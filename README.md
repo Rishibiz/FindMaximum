@@ -50,7 +50,7 @@ def max_marks(a):
 
 <img width="1012" height="849" alt="Screenshot 2025-11-21 090346" src="https://github.com/user-attachments/assets/bf1c44c1-3a5d-4f0a-b4f7-682f5e062b42" />
 
-<img width="1012" height="849" alt="Screenshot 2025-11-21 090346" src="https://github.com/user-attachments/assets/c88778de-38a1-4d3a-abe8-5272c2051637" />
+<img width="1160" height="865" alt="Screenshot 2025-11-21 090402" src="https://github.com/user-attachments/assets/5a35e930-25f0-40db-bf29-c8438dde3052" />
 
 
 ## Result:
